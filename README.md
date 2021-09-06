@@ -74,6 +74,24 @@ console.log( INT32_NUM_BYTES );
 
 <!-- /.examples -->
 
+<!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
+
+<section class="related">
+
+* * *
+
+## See Also
+
+-   [`@stdlib/constants/int16/num-bytes`][@stdlib/constants/int16/num-bytes]: size (in bytes) of a 16-bit signed integer.
+-   [`@stdlib/constants/int8/num-bytes`][@stdlib/constants/int8/num-bytes]: size (in bytes) of an 8-bit signed integer.
+-   [`@stdlib/constants/uint32/num-bytes`][@stdlib/constants/uint32/num-bytes]: size (in bytes) of a 32-bit unsigned integer.
+
+</section>
+
+<!-- /.related -->
+
+<!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
+
 
 <section class="main-repo" >
 
@@ -128,6 +146,16 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [stdlib-authors]: https://github.com/stdlib-js/stdlib/graphs/contributors
 
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/constants-int32-num-bytes/main/LICENSE
+
+<!-- <related-links> -->
+
+[@stdlib/constants/int16/num-bytes]: https://github.com/stdlib-js/constants-int16-num-bytes
+
+[@stdlib/constants/int8/num-bytes]: https://github.com/stdlib-js/constants-int8-num-bytes
+
+[@stdlib/constants/uint32/num-bytes]: https://github.com/stdlib-js/constants-uint32-num-bytes
+
+<!-- </related-links> -->
 
 </section>
 
